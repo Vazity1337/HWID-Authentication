@@ -11,3 +11,4 @@ Example: You can add the HWID Authentication to a paid program and unauthorized 
 - Checks if users HWID is in the database
 - If the users HWID is not in the database the user will be unable to use the program
 - Simple code
+- (HWID = Hardware Identification)
