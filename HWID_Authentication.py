@@ -13,9 +13,8 @@ try:
         os._exit()
 except:
     print('[ERROR] Failed to connect to database')
-    print(f'HWID: {hwid}') # prints HWID for user to copy
-    time.sleep(5)
-    os._exit()
+    time.sleep(5) 
+    os._exit() 
     
 os.system('title HWID Authentication Demo')
 
