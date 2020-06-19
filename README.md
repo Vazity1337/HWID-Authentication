@@ -7,6 +7,6 @@ Example: You can add the HWID Authentication to a paid program and unauthorized 
 
 # What does it do ?
 
-- [x] Connects to a websites HWID database
-- [x] Checks if users HWID is in the database
-- [x] If the users HWID is not in the database the user will be unable to use the program
+- Connects to a websites HWID database
+- Checks if users HWID is in the database
+- If the users HWID is not in the database the user will be unable to use the program
