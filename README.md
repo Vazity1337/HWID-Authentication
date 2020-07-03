@@ -1,14 +1,15 @@
-# 🔒 HWID Authentication
+# HWID Authentication
+Protects your program from unauthorized users using HWIDS
 
-# Why do you need HWID Authentication in you projects?
-
-You can easily understand how to use this HWID authentication system and add it to projects.
+## Information
+You can easily understand how to use this HWID authentication system and add it to python projects.
 Example: You can add the HWID Authentication to a paid program and unauthorized users won't be able to use the program.
 
-# Information
-
-- Connects to a websites HWID database
-- Checks if users HWID is in the database
-- If the users HWID is not in the database the user will be unable to use the program
-- Simple code
-- (HWID = Hardware Identification)
+## Usage
+Run this command in CMD, terminal or PowerShell (if you don't already have the **requests** module installed):
+```
+pip install requests
+```
+1. Add the code at the beginning of your project.
+2. Set the url as the link where you store your HWIDS e.g. a raw pastebin.
+3. Done.
