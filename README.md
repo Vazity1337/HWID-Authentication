@@ -1,5 +1,5 @@
 # HWID Authentication
-Protects your program from unauthorized users using HWIDS
+Protects your program from unauthorized users using their HWIDS
 
 ## Information
 You can easily understand how to use this HWID authentication system and add it to python projects.
