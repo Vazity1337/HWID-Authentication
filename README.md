@@ -8,7 +8,11 @@ Example: You can add the HWID Authentication to a paid program and unauthorized 
 ## Usage
 Run this command in CMD, terminal or PowerShell (if you don't already have the **requests** module installed):
 ```
+pip install subprocess
 pip install requests
+pip install time
+pip install os
+
 ```
 1. Add the code at the beginning of your project.
 2. Set the url as the link where you store your HWIDS e.g. a raw pastebin.
