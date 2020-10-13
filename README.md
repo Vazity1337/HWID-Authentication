@@ -12,7 +12,6 @@ pip install subprocess
 pip install requests
 pip install time
 pip install os
-
 ```
 1. Add the code at the beginning of your project.
 2. Set the url as the link where you store your HWIDS e.g. a raw pastebin.
